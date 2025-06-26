@@ -1,0 +1,27 @@
+body {
+  background: #ffffff;
+  font-family: sans-serif;
+}
+
+.fruit-list {
+  background-color: #f0f0f0;
+  padding: 20px;
+  list-style: none;
+  width: 200px;
+}
+
+.fruit-list li {
+  margin-bottom: 10px;
+  padding: 10px;
+  background-color: #d9d9d9;
+}
+
+.fruit-list li.highlight {
+  background-color: #b3b3b3;
+}
+
+.fruit-list li span {
+  background-color: #808080;
+  color: white;
+  padding: 2px 5px;
+}
